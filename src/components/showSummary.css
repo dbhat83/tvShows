@@ -1,0 +1,29 @@
+.show-summary-container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f5f5f5;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.show-summary-image {
+  width: 200px;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.book-ticket-button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.book-ticket-button:hover {
+  background-color: #0056b3;
+}

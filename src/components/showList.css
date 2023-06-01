@@ -1,0 +1,49 @@
+.shows-list-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.show-card {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.show-image {
+  width: 80px;
+  height: auto;
+  margin-right: 10px;
+}
+
+.show-details {
+  flex: 1;
+}
+
+.show-name {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.show-summary {
+  margin-bottom: 10px;
+  text-align: justify;
+}
+
+.view-summary-button {
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.view-summary-button:hover {
+  background-color: #0056b3;
+}

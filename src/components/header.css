@@ -1,0 +1,13 @@
+.header {
+  height: 80px;
+  background-color: #826f6f;
+  display: grid;
+  place-items: center;
+  margin-bottom: 0.5rem;
+}
+.header a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  font-size: 1.4rem;
+}
